@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Minimalist Masa Lambası",
+    "brand": "Lumiere",
+    "category": "Lamba",
+    "description": "Modern ahşap tabanlı, göz yormayan çalışma lambası.",
+    "price": 850.0,
+    "image": "https://images.pexels.com/photos/1112598/pexels-photo-1112598.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "2",
+    "name": "Boho Kadife Koltuk",
+    "brand": "SoftHome",
+    "category": "Koltuk",
+    "description": "Premium konfor ve estetik tasarımı bir araya getiren kadife koltuk.",
+    "price": 4500.0,
+    "image": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "3",
+    "name": "İskandinav Ahşap Sandalye",
+    "brand": "NordicDesign",
+    "category": "Sandalye",
+    "description": "Meşe ağacından üretilmiş, minimalist ve ergonomik yemek odası sandalyesi.",
+    "price": 1250.0,
+    "image": "https://images.pexels.com/photos/116910/pexels-photo-116910.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "4",
+    "name": "Modern Çalışma Masası",
+    "brand": "Focus",
+    "category": "Masa",
+    "description": "Geniş yüzeyli, metal ayaklı modern ofis ve çalışma masası.",
+    "price": 2400.0,
+    "image": "https://images.pexels.com/photos/1297611/pexels-photo-1297611.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "5",
+    "name": "Ahşap Jaluzi Perde",
+    "brand": "SunBlock",
+    "category": "Jaluzi",
+    "description": "Işığı mükemmel süzen, doğal bambu görünümlü şık jaluzi.",
+    "price": 950.0,
+    "image": "https://www.sowidoor.com/wp-content/uploads/2020/01/ah%C5%9Fap-jaluzi-2.jpg"
+  }
+]
